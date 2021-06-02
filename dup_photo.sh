@@ -10,6 +10,7 @@ for album_folder in "$albums_folder"/*/ ; do
     album_file_name=`basename "${album_file}"`
     echo "*** Album File $album_file_name ***"
     for collective_album_folder in "$collective_albums_folder"/*/ ; do
+      echo "*** Collective folder $collective_album_folder ***"
       for collective_file in "$collective_album_folder"/*.*
       do
         collective_file_name=`basename "${collective_file}"`
