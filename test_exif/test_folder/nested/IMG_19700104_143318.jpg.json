@@ -1,0 +1,36 @@
+{
+  "title": "IMG_19700104_143318.jpg",
+  "description": "",
+  "imageViews": "18",
+  "creationTime": {
+    "timestamp": "1528034985",
+    "formatted": "14:09:45 UTC, 3 thg 6, 2018"
+  },
+  "photoTakenTime": {
+    "timestamp": "282798",
+    "formatted": "06:33:18 UTC, 4 thg 1, 1970"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/Nths1PZRU3dIqMw6sRfWTAJj0nEcTrsFerYx8tDHSe4id32M7ri9DavBF2COEMJRpfVeG1InBviTMXs_-dPSBSScF4UQwFt3ARwDl2A",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

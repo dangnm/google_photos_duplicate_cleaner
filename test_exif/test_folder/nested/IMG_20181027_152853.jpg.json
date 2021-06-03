@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20181027_152853.jpg",
+  "description": "",
+  "imageViews": "8",
+  "creationTime": {
+    "timestamp": "1540768505",
+    "formatted": "23:15:05 UTC, 28 thg 10, 2018"
+  },
+  "photoTakenTime": {
+    "timestamp": "1540628933",
+    "formatted": "08:28:53 UTC, 27 thg 10, 2018"
+  },
+  "geoData": {
+    "latitude": 14.061220299999999,
+    "longitude": 108.0096763,
+    "altitude": 768.376,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 14.061220299999999,
+    "longitude": 108.0096763,
+    "altitude": 768.376,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://lh3.googleusercontent.com/gDw_6HXIgdRQmml6evRGCBMGXEY3v-IpSSXECbONxcvMvvSGdfQRLzUvQ23oZ18fO_ZvSEz2EEd50APOS2WNg2d_uMLbM8uYNfS7ybDC",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
